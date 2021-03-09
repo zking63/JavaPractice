@@ -5,5 +5,6 @@ public class OneTest {
         result.One(555);
         result.One(100);
         result.One(77777);
+        result.One(100009);
     }
 }
