@@ -1,7 +1,7 @@
 public class fibtest{
-    public static void main(String[], args){
+    public static void main(String[] args){
         fibonacci fib = new fibonacci();
-
-        fib.fibonacci();
+        int[] nums = {0,1,2,3};
+        fib.fibonacci(nums);
     }
 }
