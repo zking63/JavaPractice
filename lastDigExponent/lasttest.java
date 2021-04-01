@@ -4,8 +4,8 @@ public class lasttest{
     public static void main(String[] args){
         last result = new last();
 
-        int num = 12;
-        int exp = 2;
+        Integer num = 12;
+        Integer exp = 2;
 
         result.lastD(num, exp);
     }
