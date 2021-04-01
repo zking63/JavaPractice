@@ -1,5 +1,5 @@
 public class rs{
-    public void reverse(){
-        
+    public void reverse(String word){
+        System.out.println(word);
     }
 }
