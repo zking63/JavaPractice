@@ -9,8 +9,8 @@ public class lasttest{
 
         result.lastD(num, exp);
 
-        System.out.println(result.lastD(3335, 2));
-
-        System.out.println(result.lastD(99993330, 2));
+       result.lastD(3335, 2);
+       
+       result.lastD(-99993330, 2);
     }
 }
