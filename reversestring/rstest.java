@@ -1,4 +1,4 @@
-//reverse a string and print an arraylist of it
+//reverse a string and print a new string of it
 public class rstest{
     public static void main(String[] args){
         rs result = new rs();
@@ -6,5 +6,6 @@ public class rstest{
         result.reverse("hello");
         result.reverse("Zoe!");
         result.reverse("HOW ABOUT THIS");
+        result.reverse("RACEcAR");
     }
 }
